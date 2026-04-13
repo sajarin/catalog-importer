@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "pylon": {
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.usepylon.com/mcp"
+      ],
+      "command": "bunx"
+    }
+  }
+}
